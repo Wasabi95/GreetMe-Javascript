@@ -1,0 +1,12 @@
+body {
+  min-height: calc(100vh - 3rem);
+  display: grid;
+  place-items: center;
+  background-color: rgb(221, 72, 72);
+}
+form input {
+  font-size: 60px;
+}
+#submit {
+  cursor: pointer !important;
+}
